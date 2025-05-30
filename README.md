@@ -2,7 +2,8 @@
 <h3 align="center">🚀 Passionate Software Developer | 💡 Lifelong Learner | 📍 India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGt2MzdmYW1ncXE1eGZtanFnNGM5bWZyNGhtamRmcDU0ZGxvem9jdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="coding-gif">
+  <!-- Modern neon-style developer gif -->
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="500" alt="Neon coding animation"/>
 </p>
 
 <p align="center">
@@ -15,7 +16,8 @@
 - 🎓 **Computer Science Student** passionate about technology and innovation  
 - 💼 Currently learning **Full Stack Development**  
 - 🔭 Always looking for opportunities to grow and collaborate  
-- 📫 Reach me at: **dharmeshpanpatil01@gmail.com**
+- 📫 Reach me at: **dharmeshpanpatil01@gmail.com**  
+- 🔗 GitHub: [Dharmesh-11](https://github.com/Dharmesh-11)
 
 ---
 
@@ -56,7 +58,6 @@
 ---
 
 ### 📊 GitHub Stats :-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dharmesh-11&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
@@ -67,6 +68,7 @@
 
 ---
 
+---
+
 ### 💬 Quote to Live By:-
 > *"Stay hungry, stay foolish." – Steve Jobs*
-
