@@ -2,26 +2,25 @@
 <h3 align="center">🚀 Passionate Software Developer | 💡 Lifelong Learner | 📍 India</h3>
 
 <p align="center">
-  <!-- Modern neon-style developer gif -->
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="500" alt="Neon coding animation"/>
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="500" alt="Coding animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharmesh-11&label=👀%20Profile%20views&color=0e75b6&style=flat" alt="dharmesh-11" />
+  <img src="https://komarev.com/ghpvc/?username=dharmesh-11&label=👀%20Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### ✨ About Me :-
-- 🎓 **Computer Science Student** passionate about technology and innovation  
-- 💼 Currently learning **Full Stack Development**  
-- 🔭 Always looking for opportunities to grow and collaborate  
-- 📫 Reach me at: **dharmeshpanpatil01@gmail.com**  
-- 🔗 GitHub: [Dharmesh-11](https://github.com/Dharmesh-11)
+### ✨ About Me
+- 🎓 I'm a **Computer Science Student** passionate about building innovative tech solutions  
+- 💻 Currently diving deep into **Full Stack Development**  
+- 🌱 Constantly learning and improving with each project  
+- 🤝 Open to collaboration and exciting new challenges  
+- 📫 You can reach me at: **dharmeshpanpatil01@gmail.com**
 
 ---
 
-### 🌐 Connect with Me :-
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://twitter.com/pa71341" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -36,7 +35,7 @@
 
 ---
 
-### ⚙️ Tech Stack :-
+### ⚙️ Tech Stack
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
@@ -57,9 +56,9 @@
 
 ---
 
-### 📊 GitHub Stats :-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmesh-11&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dharmesh-11&show_icons=true&theme=radical" alt="Dharmesh's GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -68,7 +67,11 @@
 
 ---
 
+### 💬 Quote to Live By
+> *"Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill*
+
 ---
 
-### 💬 Quote to Live By:-
-> *"Stay hungry, stay foolish." – Steve Jobs*
+### ⚡ Fun Fact
+> I once debugged a bug at 3AM and thought I was dreaming — turned out the fix was real!
+
