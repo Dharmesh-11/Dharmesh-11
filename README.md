@@ -64,11 +64,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dharmesh-11&theme=radical&row=2&column=4" alt="Trophies"/>
-</p>
-
 ---
 
 ### 📈 GitHub Stats
