@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm <span style="color:#0a66c2;">Dharmesh Panpatil</span></h1>
-<h3 align="center">🚀 Passionate Software Developer | 🤖 AI/ML Enthusiast | 💡 Lifelong Learner | 📍 India</h3>
+<h3 align="center">🤖 AI/ML Enthusiast | 📊 Data Science Explorer | 💡 Lifelong Learner | 📍 India</h3>
 
 <p align="center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="500" alt="Coding animation" />
@@ -12,11 +12,10 @@
 ---
 
 ### ✨ About Me
-- 🎓 I'm a **Computer Science Student** passionate about building innovative tech solutions  
-- 🤖 Currently exploring the world of **Artificial Intelligence & Machine Learning**
-- 💻 Diving deep into **Full Stack Development**
+- 🎓 I'm a **Computer Science Student** passionate about **Artificial Intelligence & Machine Learning**  
+- 📊 Exploring **Data Science, Deep Learning & NLP**  
 - 🌱 Constantly learning and improving with each project  
-- 🤝 Open to collaboration and exciting new challenges  
+- 🤝 Open to collaboration on **AI/ML Research & Real-world Projects**  
 - 📫 Reach me at: **dharmeshpanpatil01@gmail.com**
 
 ---
@@ -39,30 +38,55 @@
 
 ---
 
-### ⚙️ Tech Stack
-<p align="left">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+### ⚙️ Tech Stack (AI/ML, Data Science & Tools)
+
+#### 🖥️ Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
 </p>
 
----
+#### 🤖 AI/ML Libraries & Frameworks
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/>
+  <img src="https://keras.io/img/logo.png" alt="Keras" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/>
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="OpenCV" width="40" height="40"/>
+</p>
+
+#### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Plotly_logo.png" alt="Plotly" width="60" height="40"/>
+</p>
+
+#### 🗄️ Databases & Big Data
+<p>
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apache_Spark_logo.svg" alt="Apache Spark" width="60" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
+#### ☁️ Cloud & MLOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" width="80" height="40"/>
+  <img src="https://neptune.ai/wp-content/uploads/2023/02/neptune-logo.png" alt="Neptune.ai" width="80" height="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
+</p>
 
 ---
 
@@ -75,8 +99,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmesh-11&layout=compact&langs_count=15&theme=radical&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
-
-
 ---
 
 ### 💬 Quote to Live By
@@ -85,7 +107,7 @@
 ---
 
 ### ⚡ Fun Fact
-> I once debugged a bug at 3AM and thought I was dreaming — turned out the fix was real!
+> I once debugged a bug at 3AM and thought I was dreaming — turned out the fix was real!  
 
 
 
