@@ -102,7 +102,7 @@
 ---
 
 ### 💬 Quote to Live By
-> *"Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill*
+> *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
 
 ---
 
