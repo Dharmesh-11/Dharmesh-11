@@ -96,8 +96,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmesh-11&layout=compact&langs_count=15&theme=radical&cache_seconds=1800" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmesh-11&layout=compact&langs_count=100&theme=radical&cache_seconds=1800" alt="Top Languages"/>
 </p>
+
 
 ---
 
