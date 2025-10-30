@@ -1,8 +1,5 @@
 <h1 align="center">Hey 👋, I'm <span style="color:#0a66c2;">Dharmesh Panpatil</span></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&repeat=false&width=820&height=30&lines=%F0%9F%A4%96+AI%2FML+Enthusiast+%7C+%F0%9F%93%8A+Data+Science+Explorer+%7C+%F0%9F%92%A1+Lifelong+Learner+%7C+%F0%9F%93%8D+India" alt="typing roles" />
-</p>
+<h3 align="center">🤖 AI/ML Enthusiast | 📊 Data Science Explorer | 💡 Lifelong Learner | 📍 India</h3>
 
 <p align="center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="500" alt="Coding animation" />
