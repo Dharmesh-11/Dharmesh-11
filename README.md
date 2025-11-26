@@ -91,13 +91,10 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharmesh-11&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmesh-11&layout=compact&langs_count=1000&theme=radical&cache_seconds=1800" alt="Top Languages"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharmesh-11&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmesh-11&layout=compact&theme=radical)
 
 ---
 
