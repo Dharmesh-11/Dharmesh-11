@@ -99,7 +99,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmesh-11&layout=compact&langs_count=1000&theme=radical&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
-
 ---
 
 ### 💬 Quote to Live By
@@ -108,7 +107,4 @@
 ---
 
 ### ⚡ Fun Fact
-> I once debugged a bug at 3AM and thought I was dreaming — turned out the fix was real!  
-
-
-
+> I once debugged a bug at 3AM and thought I was dreaming — turned out the fix was real!
