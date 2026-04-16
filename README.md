@@ -1,108 +1,130 @@
-<h1 align="center">Hey 👋, I'm <span style="color:#0a66c2;">Dharmesh Panpatil</span></h1>
-<h3 align="center">🤖 AI/ML Enthusiast | 📊 Data Science Explorer | 💡 Lifelong Learner | 📍 India</h3>
+<div align="center"> 
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,100:00c6ff&height=180&section=header&text=Dharmesh%20Panpatil&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Engineer%20%20%7C%20%20DevOps%20Engineer%20%20%7C%20%20Cloud%20Infrastructure%20Explorer&descSize=16&descAlignY=60&descColor=d0eaff" alt="Header"/> 
+<br/>
 
-<p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="500" alt="Coding animation" />
-</p>
+<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="480" alt="Coding animation" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dharmesh-11&label=👀%20Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<br/>
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=Dharmesh-11&label=Profile%20Views&color=0a66c2&style=for-the-badge)](https://github.com/Dharmesh-11)
 
-### ✨ About Me
-- 🎓 I'm a **Computer Science Student** passionate about **Artificial Intelligence & Machine Learning**  
-- 📊 Exploring **Data Science, Deep Learning & NLP**  
-- 🌱 Constantly learning and improving with each project  
-- 🤝 Open to collaboration on **AI/ML Research & Real-world Projects**  
-- 📫 Reach me at: **dharmeshpanpatil01@gmail.com**
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
+## 🧠 About Me
+
+> *Computer Science student on a mission to build intelligent systems that solve real-world problems.*
+
+- 🎓 Pursuing **Computer Science** with a deep focus on **AI & Machine Learning**
+- 📊 Actively exploring **Deep Learning, NLP, and Data Science pipelines**
+- 🌱 Learning something new every day — from research papers to production deployments
+- 🤝 Open to collaborating on **AI/ML research, open-source projects, and real-world applications*
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
   <a href="https://twitter.com/pa71341" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/dharmesh-panpatil-401756314" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/____dharmesh_______" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:dharmeshpanpatil01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="#" title="Discord: dhamu_11">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="30" width="30" />
+    <img src="https://img.shields.io/badge/Discord-dhamu__11-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
 ---
 
-### ⚙️ Tech Stack (AI/ML, Data Science & Tools)
-
-#### 🖥️ Programming Languages
+### 🖥️ Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
-#### 🤖 AI/ML Libraries & Frameworks
+### 🤖 AI / ML Frameworks
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/>
-  <img src="https://keras.io/img/logo.png" alt="Keras" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/>
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-#### 📊 Data Analysis & Visualization
+### 📊 Data Analysis & Visualization
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Plotly_logo.png" alt="Plotly" width="60" height="40"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-#### 🗄️ Databases & Big Data
+### 🗄️ Databases & Big Data
 <p>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apache_Spark_logo.svg" alt="Apache Spark" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
 </p>
 
-#### ☁️ Cloud & MLOps
+### ☁️ Cloud, MLOps & Deployment
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" width="80" height="40"/>
-  <img src="https://neptune.ai/wp-content/uploads/2023/02/neptune-logo.png" alt="Neptune.ai" width="80" height="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/>
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ---
 
-### 🧭 Languages Used (GitHub top languages)
-<!-- Top languages card generated by GitHub Readme Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmesh-11&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharmesh-11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmesh-11&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmesh-11&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 💡 Quote to Live By
+
+> *"Code is like humor. When you have to explain it, it's bad."*
+> — **Cory House**
 
 
 ---
 
-### 💬 Quote to Live By
-> *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
+## ⚡ Fun Fact
+
+> I once debugged a bug at 3AM and thought I was dreaming — turned out the fix was real! 🐛✅
 
 ---
 
-### ⚡ Fun Fact
-> I once debugged a bug at 3AM and thought I was dreaming — turned out the fix was real!
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0a66c2&height=100&section=footer" />
+
+*Thanks for stopping by! If you like what you see, consider giving a ⭐ to my repos.*
+
+</div>
+
+
