@@ -13,7 +13,6 @@
 </div>
 
 ---
-
 ## 🧠 About Me
 
 > *Computer Science student on a mission to build scalable cloud infrastructures, automate deployments, and create intelligent solutions for real-world problems through Cloud & DevOps technologies.*
@@ -22,6 +21,14 @@
 - 📊 ☁️ Actively exploring **AWS**, **Docker**, **Kubernetes**, **CI/CD**, and **Infrastructure Automation**
 - 🚀 Learning something new every day — from cloud architecture to production deployments
 - 🤝 Open to collaborating on **Cloud, DevOps, automation, and real-world deployment projects**
+
+---
+
+<div align="center">
+
+<img src="./devops-animation.svg" alt="DevOps Animation" width="900"/>
+
+</div>
 
 ---
 
