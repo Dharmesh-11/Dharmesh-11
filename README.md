@@ -135,10 +135,9 @@
 
 ## 💡 Quote to Live By
 
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — **Cory House**
+> *"In the world of DevOps, automation is not a luxury — it’s a necessity."*
 
-
+> — **Jez Humble**
 ---
 
 ## ⚡ Fun Fact
