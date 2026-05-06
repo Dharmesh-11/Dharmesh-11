@@ -1,49 +1,110 @@
-<!-- Save as devops-animation.svg -->
+<!-- FINAL PERFECT DEVOPS INFINITY SVG -->
+<!-- Save as: devops-animation.svg -->
 
-<svg width="700" height="300" viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <!-- Infinity Gradient -->
+    <linearGradient id="infinityGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
 
   <style>
-    .bg {
-      fill: #0d1117;
+
+    .background {
+      fill: url(#bg);
     }
 
-    .infinity {
-      fill: none;
-      stroke: url(#grad);
-      stroke-width: 18;
-      stroke-linecap: round;
-      stroke-dasharray: 30 20;
-      animation: dash 4s linear infinite;
-      filter: drop-shadow(0 0 12px #3b82f6);
+    .grid line {
+      stroke: #1e293b;
+      stroke-width: 1;
+      opacity: 0.2;
     }
 
-    .text {
+    .stars {
       fill: white;
-      font-size: 38px;
-      font-family: Arial, sans-serif;
-      font-weight: bold;
-      letter-spacing: 3px;
+      opacity: 0.6;
+      animation: blink 4s infinite alternate;
     }
 
-    .smallText {
-      fill: #8b949e;
-      font-size: 16px;
-      font-family: Arial, sans-serif;
+    .infinityGlow {
+      fill: none;
+      stroke: #3b82f6;
+      stroke-width: 42;
+      opacity: 0.15;
+      filter: url(#glow);
+    }
+
+    .infinityMain {
+      fill: none;
+      stroke: url(#infinityGrad);
+      stroke-width: 24;
+      stroke-linecap: round;
+      stroke-dasharray: 20 14;
+      animation: flow 2s linear infinite;
+      filter: url(#glow);
+    }
+
+    .title {
+      fill: white;
+      font-size: 64px;
+      font-family: Arial;
+      font-weight: bold;
+      letter-spacing: 4px;
+    }
+
+    .subtitle {
+      fill: #94a3b8;
+      font-size: 22px;
+      font-family: Arial;
+      letter-spacing: 4px;
+    }
+
+    .tech {
+      fill: #06b6d4;
+      font-size: 26px;
+      font-family: Arial;
+      font-weight: bold;
+      filter: url(#glow);
     }
 
     .icon {
-      animation: float 3s ease-in-out infinite;
-    }
-
-    .icon2 {
       animation: float 4s ease-in-out infinite;
     }
 
-    .icon3 {
+    .icon2 {
       animation: float 5s ease-in-out infinite;
     }
 
-    @keyframes dash {
+    .icon3 {
+      animation: float 6s ease-in-out infinite;
+    }
+
+    .icon4 {
+      animation: float 7s ease-in-out infinite;
+    }
+
+    @keyframes flow {
       from {
         stroke-dashoffset: 0;
       }
@@ -52,55 +113,117 @@
       }
     }
 
+    @keyframes blink {
+      from {
+        opacity: 0.2;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+
     @keyframes float {
       0% {
         transform: translateY(0px);
       }
       50% {
-        transform: translateY(-8px);
+        transform: translateY(-15px);
       }
       100% {
         transform: translateY(0px);
       }
     }
+
   </style>
 
   <!-- Background -->
-  <rect width="100%" height="100%" class="bg"/>
+  <rect width="100%" height="100%" class="background"/>
 
-  <!-- Gradient -->
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-    </linearGradient>
-  </defs>
+  <!-- Grid -->
+  <g class="grid">
+    <line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/>
+    <line x1="0" y1="400" x2="1200" y2="400"/>
+    <line x1="0" y1="500" x2="1200" y2="500"/>
 
-  <!-- Infinity Symbol -->
+    <line x1="200" y1="0" x2="200" y2="600"/>
+    <line x1="400" y1="0" x2="400" y2="600"/>
+    <line x1="600" y1="0" x2="600" y2="600"/>
+    <line x1="800" y1="0" x2="800" y2="600"/>
+    <line x1="1000" y1="0" x2="1000" y2="600"/>
+  </g>
+
+  <!-- Stars -->
+  <circle cx="100" cy="70" r="2" class="stars"/>
+  <circle cx="240" cy="40" r="2" class="stars"/>
+  <circle cx="500" cy="80" r="2" class="stars"/>
+  <circle cx="880" cy="60" r="2" class="stars"/>
+  <circle cx="1040" cy="120" r="2" class="stars"/>
+  <circle cx="930" cy="500" r="2" class="stars"/>
+  <circle cx="280" cy="520" r="2" class="stars"/>
+
+  <!-- Infinity Glow -->
   <path
-    class="infinity"
+    class="infinityGlow"
     d="
-      M180 150
-      C180 60, 350 60, 350 150
-      C350 240, 520 240, 520 150
-      C520 60, 350 60, 350 150
-      C350 240, 180 240, 180 150
+      M 320 300
+      C 320 150, 500 150, 600 300
+      C 700 450, 880 450, 880 300
+      C 880 150, 700 150, 600 300
+      C 500 450, 320 450, 320 300
     "
   />
 
-  <!-- DEV / OPS -->
-  <text x="225" y="160" class="text">DEV</text>
-  <text x="410" y="160" class="text">OPS</text>
+  <!-- Main Infinity -->
+  <path
+    class="infinityMain"
+    d="
+      M 320 300
+      C 320 150, 500 150, 600 300
+      C 700 450, 880 450, 880 300
+      C 880 150, 700 150, 600 300
+      C 500 450, 320 450, 320 300
+    "
+  />
+
+  <!-- Running Particle -->
+  <circle r="10" fill="#ffffff" filter="url(#glow)">
+    <animateMotion
+      dur="4s"
+      repeatCount="indefinite"
+      rotate="auto"
+      path="
+        M 320 300
+        C 320 150, 500 150, 600 300
+        C 700 450, 880 450, 880 300
+        C 880 150, 700 150, 600 300
+        C 500 450, 320 450, 320 300
+      "
+    />
+  </circle>
+
+  <!-- DEV INSIDE LEFT LOOP -->
+  <text x="395" y="320" class="title">DEV</text>
+
+  <!-- OPS INSIDE RIGHT LOOP -->
+  <text x="690" y="320" class="title">OPS</text>
 
   <!-- Subtitle -->
-  <text x="210" y="250" class="smallText">
-    Build • Automate • Deploy • Scale
+  <text x="320" y="540" class="subtitle">
+    AUTOMATE • DEPLOY • SCALE • MONITOR • INNOVATE
   </text>
 
   <!-- Floating Icons -->
-  <text x="120" y="80" class="icon" font-size="32">🐳</text>
-  <text x="560" y="90" class="icon2" font-size="32">☁️</text>
-  <text x="100" y="220" class="icon3" font-size="32">⚙️</text>
-  <text x="580" y="220" class="icon" font-size="32">🚀</text>
+  <text x="120" y="180" font-size="55" class="icon">🐳</text>
+  <text x="1020" y="180" font-size="55" class="icon2">☁️</text>
+  <text x="120" y="420" font-size="55" class="icon3">⚙️</text>
+  <text x="1020" y="420" font-size="55" class="icon4">🚀</text>
+
+  <!-- Tech Labels -->
+  <text x="90" y="80" class="tech">DOCKER</text>
+  <text x="960" y="80" class="tech">AWS CLOUD</text>
+  <text x="70" y="560" class="tech">KUBERNETES</text>
+  <text x="980" y="560" class="tech">CI/CD</text>
 
 </svg>
