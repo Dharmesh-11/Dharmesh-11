@@ -16,12 +16,12 @@
 
 ## 🧠 About Me
 
-> *Computer Science student on a mission to build intelligent systems that solve real-world problems.*
+> *Computer Science student on a mission to build scalable cloud infrastructures, automate deployments, and create intelligent solutions for real-world problems through Cloud & DevOps technologies.*
 
-- 🎓 Pursuing **Computer Science** with a deep focus on **AI & Machine Learning**
-- 📊 Actively exploring **Deep Learning, NLP, and Data Science pipelines**
-- 🌱 Learning something new every day — from research papers to production deployments
-- 🤝 Open to collaborating on **AI/ML research, open-source projects, and real-world applications*
+- 🎓Pursuing Computer Science with a deep focus on **Cloud Computing & DevOps**
+- 📊 ☁️ Actively exploring **AWS**, **Docker**, **Kubernetes**, **CI/CD**, and **Infrastructure Automation**
+- 🚀 Learning something new every day — from cloud architecture to production deployments
+- 🤝 Open to collaborating on **Cloud, DevOps, automation, and real-world deployment projects**
 
 ---
 
