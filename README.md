@@ -24,6 +24,8 @@
 
 ---
 
+## ♾️ DevOps Infinity Loop
+
 <div align="center">
 
 <img src="./devops-animation.svg" alt="DevOps Animation" width="900"/>
