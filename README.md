@@ -142,7 +142,7 @@
 
 ## ⚡ Fun Fact
 
-> I once debugged a bug at 3AM and thought I was dreaming — turned out the fix was real! 🐛✅
+> I trust automation completely — until the pipeline fails 2 minutes before submission. 🚀😅
 
 ---
 
