@@ -16,9 +16,10 @@
 
 ## ♾️ Infinite DevOps Cycle
 
+
 <div align="center">
 
-<img src="./devops.svg" alt="DevOps Animation" width="900"/>
+<img src="./devops.svg" alt="DevOps Animation" width="1000"/>
 
 </div>
 
