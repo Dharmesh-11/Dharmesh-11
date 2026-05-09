@@ -14,7 +14,7 @@
 
 ---
 
-## ♾️ DevOps Infinity Loop
+## ♾️ Infinite DevOps Cycle
 
 <div align="center">
 
