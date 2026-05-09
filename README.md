@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="./devops-animation.svg" alt="DevOps Animation" width="900"/>
+<img src="./devops.svg" alt="DevOps Animation" width="900"/>
 
 </div>
 
